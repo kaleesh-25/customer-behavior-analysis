@@ -1,5 +1,7 @@
 # Customer Shopping Behavior Analysis
 
+📊 **[Click here to download the Interactive Power BI Dashboard (.pbix)](customer_behavior_dashboard.pbix)**
+
 ## Project Overview
 This project analyzes customer shopping behavior using transactional data from 3,900 purchases across various product categories to uncover insights into spending patterns, customer segments, and subscription behavior[cite: 4]. The goal is to guide strategic business decisions and optimize marketing strategies[cite: 3].
 
